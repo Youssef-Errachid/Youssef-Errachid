@@ -135,11 +135,10 @@ Currently expanding my knowledge in Microservices, Cloud technologies, and Softw
 
 # Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Errachid&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Errachid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
 
 ---
 
