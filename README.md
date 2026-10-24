@@ -4,7 +4,7 @@
 
 <h3>Full Stack Java Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Java+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Java+Developer;Spring+Boot+Developer;React+Developer;REST+API+Developer;Python+%26+FastAPI+Explorer;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -38,7 +38,7 @@ I am a passionate **Full Stack Java Developer** from **Morocco** focused on buil
 
 I enjoy designing REST APIs, developing backend services with Spring Boot, and creating modern user interfaces with React.
 
-Currently expanding my knowledge in Microservices, Cloud technologies, and Software Architecture.
+Currently expanding my knowledge in Microservices, Cloud technologies, Software Architecture, and AI-powered search (RAG) with Python.
 
 ---
 
@@ -49,6 +49,8 @@ Currently expanding my knowledge in Microservices, Cloud technologies, and Softw
 <p>
 
 <img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <img src="https://skillicons.dev/icons?i=cpp"/>
 
@@ -66,6 +68,8 @@ Currently expanding my knowledge in Microservices, Cloud technologies, and Softw
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
+<img src="https://skillicons.dev/icons?i=vite"/>
+
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
@@ -80,6 +84,8 @@ Currently expanding my knowledge in Microservices, Cloud technologies, and Softw
 
 <img src="https://skillicons.dev/icons?i=maven"/>
 
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
 </p>
 
 ### Database
@@ -87,6 +93,22 @@ Currently expanding my knowledge in Microservices, Cloud technologies, and Softw
 <p>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+### AI & Search
+
+<p>
+
+<img src="https://img.shields.io/badge/Apache%20Tika-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Whisper%20ASR-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Solr%20%2F%20OpenSearch-005EB8?style=for-the-badge"/>
 
 </p>
 
@@ -114,6 +136,7 @@ Currently expanding my knowledge in Microservices, Cloud technologies, and Softw
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
+| **[Intelligent Document & Audio Search](https://github.com/Youssef-Errachid/intelligent-document-audio-search--system-)** | RAG-based search system over documents and audio recordings: text extraction (OCR and speech-to-text), duplicate detection, keyword and semantic search through a web interface | Python • FastAPI • React • Tailwind CSS • MongoDB • Apache Tika • Whisper • Ollama • Docker |
 | **HealthCare+** | REST API for managing patients, doctors, appointments and medical records with JWT authentication | Java • Spring Boot • Spring Security • Docker • MySQL |
 | **FinPay** | Secure Payment & Invoice Management System | Java • Spring Boot • JWT • Docker • MySQL |
 | **Mini Boutique** | Responsive React e-commerce application | React • Axios • CSS |
@@ -172,7 +195,11 @@ Currently expanding my knowledge in Microservices, Cloud technologies, and Softw
 | Spring Security | ██████████████████░ |
 | React | ████████████████░░░ |
 | Docker | ██████████████░░░░░ |
-| Microservices | ████████░░░░░░░░░░ |
+| Microservices | ████████░░░░░░░░░░░ |
+| Python | ██████░░░░░░░░░░░░░ |
+| FastAPI | █████░░░░░░░░░░░░░░ |
+| MongoDB | ██████░░░░░░░░░░░░░ |
+| RAG & LLMs | ███░░░░░░░░░░░░░░░░ |
 | Redis | ██████░░░░░░░░░░░░░ |
 | Kafka | █████░░░░░░░░░░░░░░ |
 | Kubernetes | ███░░░░░░░░░░░░░░░░ |
@@ -183,6 +210,7 @@ Currently expanding my knowledge in Microservices, Cloud technologies, and Softw
 # Current Focus
 
 - Building enterprise Java applications
+- Building an AI-powered document & audio search system (Python, FastAPI, RAG)
 - Learning Microservices
 - Improving System Design
 - Exploring Cloud technologies
